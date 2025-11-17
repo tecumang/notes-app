@@ -1,0 +1,15 @@
+{
+  "name": "Offline Notes App",
+  "short_name": "Notes",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Offline-first PWA Notes App",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
